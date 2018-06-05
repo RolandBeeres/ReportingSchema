@@ -1,4 +1,3 @@
-# ReportingSchema
-Collaboration between SMA and DMA to define a reporting model
+# Reporting eXchange Schema - (ReX model)
 
-# Push test
+Based on the EfficienSea2 reporting model for the BalticWeb, this fork is the next generation.
